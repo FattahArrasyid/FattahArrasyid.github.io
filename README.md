@@ -1,4 +1,5 @@
 # The A.I. Newsletter
+<br>
 <p align="left">
   <img width="200" height="200" src="https://picsum.photos/200/200">
 </p>
