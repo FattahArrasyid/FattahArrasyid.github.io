@@ -21,7 +21,7 @@ New business ideas, productivity life hacks, and more
 
 <script>
   window.CustomSubstackWidget = {
-    substackUrl: "[Your Substack URL]",
+    substackUrl: "fthar.substack.com",
     placeholder: "Enter Your Email Address",
     buttonText: "SUBSCRIBE",
     theme: "custom",
@@ -35,5 +35,4 @@ New business ideas, productivity life hacks, and more
 </script>
 <script src="https://substackapi.com/widget.js" async></script>
 <br>
-<br>
-<strong> *Your free E-Book will be send to you, after you're confirming your subscription </strong>
+*Your free E-Book will be send to you, after you're confirming your subscription
