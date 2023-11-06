@@ -1,6 +1,6 @@
 # <img width="100" height="100" src="/gambar.jpg"> 
-<h3>GET ACCESS TO 100+ AI BUSINESS IDEAS YOU CAN START TODAY</h3>
 <br>
+<h3>GET ACCESS TO 100+ AI BUSINESS IDEAS YOU CAN START TODAY</h3>
 <p align="left">
   <img width="200" height="200" src="https://picsum.photos/200/200">
 </p>
