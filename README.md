@@ -1,7 +1,4 @@
-# <img align="left" width="100" height="100" src="https://picsum.photos/100/100">
-<br>
-<br>
-<br>
+# The A.I. Newsletter
 <br>
 Embed Substack Code:
 
@@ -24,3 +21,5 @@ Embed Substack Code:
   };
 </script>
 <script src="https://substackapi.com/widget.js" async></script>
+
+<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
