@@ -1,5 +1,7 @@
 # The A.I. Newsletter
-<br>
+<p align="left">
+  <img width="200" height="200" src="https://picsum.photos/200/200">
+</p>
 GET ACCESS TO 100+ AI BUSINESS IDEAS YOU CAN START TODAY
 <br>
 <br>
@@ -14,7 +16,7 @@ We’ll also send you our weekly newsletter every Thursday.
 New business ideas, productivity life hacks, and more 
 
 – all in a 5-minute email.
-<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
+
 <br>
 <div id="custom-substack-embed"></div>
 
@@ -34,5 +36,4 @@ New business ideas, productivity life hacks, and more
   };
 </script>
 <script src="https://substackapi.com/widget.js" async></script>
-
 
