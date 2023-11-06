@@ -2,8 +2,8 @@
 <p align="left">
   <img width="200" height="200" src="https://picsum.photos/200/200">
 </p>
-GET ACCESS TO 100+ AI BUSINESS IDEAS YOU CAN START TODAY
 <br>
+<h3> GET ACCESS TO 100+ AI BUSINESS IDEAS YOU CAN START TODAY </h3>
 <br>
 Enter your email and we will send you 100+ AI Business Ideas.
 
@@ -17,7 +17,6 @@ New business ideas, productivity life hacks, and more
 
 – all in a 5-minute email.
 
-<br>
 <div id="custom-substack-embed"></div>
 
 
