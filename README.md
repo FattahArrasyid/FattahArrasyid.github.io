@@ -1,9 +1,8 @@
 # The A.I. Newsletter
 <br>
-Embed Substack Code:
-<br>
-<br>
 GET ACCESS TO 100+ AI BUSINESS IDEAS YOU CAN START TODAY
+<br>
+<br>
 Enter your email and we will send you 100+ AI Business Ideas.
 
 
