@@ -2,8 +2,7 @@
 <br>
 Embed Substack Code:
 
-<br>
-<br>
+<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
 <br>
 <div id="custom-substack-embed"></div>
 
@@ -24,4 +23,4 @@ Embed Substack Code:
 </script>
 <script src="https://substackapi.com/widget.js" async></script>
 
-<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
+
