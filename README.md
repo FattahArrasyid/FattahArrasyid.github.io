@@ -22,7 +22,7 @@ New business ideas, productivity life hacks, and more
 
 <script>
   window.CustomSubstackWidget = {
-    substackUrl: "fthar.substack.com",
+    substackUrl: "[substack url]",
     placeholder: "Enter Your Email Address",
     buttonText: "SUBSCRIBE",
     theme: "custom",
