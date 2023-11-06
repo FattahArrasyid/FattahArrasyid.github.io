@@ -1,8 +1,8 @@
-# <img width="100" height="100" src="/gambar.jpg"> 
+# <img width="75" height="75" src="/gambar.jpg"> 
 <br>
-<h3>GET ACCESS TO 100+ AI BUSINESS IDEAS YOU CAN START TODAY</h3>
+<h3><B>GET ACCESS TO 100+ AI BUSINESS IDEAS YOU CAN START TODAY</B></h3
 <p align="left">
-  <img width="200" height="200" src="https://picsum.photos/200/200">
+  <img width="400" height="400" src="https://picsum.photos/200/200">
 </p>
 Enter your email and we will send you 100+ AI Business Ideas.
 
