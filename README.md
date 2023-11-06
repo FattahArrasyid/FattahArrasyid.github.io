@@ -1,9 +1,8 @@
 # The A.I. Newsletter
-<br>
 <p align="left">
   <img width="200" height="200" src="https://picsum.photos/200/200">
 </p>
-<h3> GET ACCESS TO 100+ AI BUSINESS IDEAS YOU CAN START TODAY </h3>
+<strong><h3> GET ACCESS TO 100+ AI BUSINESS IDEAS YOU CAN START TODAY </h3></strong>
 <br>
 Enter your email and we will send you 100+ AI Business Ideas.
 
@@ -15,7 +14,7 @@ We’ll also send you our weekly newsletter every Thursday.
 
 New business ideas, productivity life hacks, and more 
 
-– all in a 5-minute email.
+<strong> – all in a 5-minute email. </strong>
 
 <div id="custom-substack-embed"></div>
 
