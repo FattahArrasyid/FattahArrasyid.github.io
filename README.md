@@ -34,5 +34,4 @@ New business ideas, productivity life hacks, and more
   };
 </script>
 <script src="https://substackapi.com/widget.js" async></script>
-<br>
-*Your free E-Book will be send to you, after you're confirming your subscription
+<strong>*Your free E-Book will be send to you, after you're confirming your subscription</strong>
