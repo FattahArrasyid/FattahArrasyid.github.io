@@ -1,4 +1,4 @@
-#  ![Untitled design(11)](https://github.com/FattahArrasyid/FattahArrasyid.github.io/assets/74808860/17c5c52e-16d1-4844-8761-06dca9eed763)
+# #
 
 
 Embed Substack Code:
