@@ -33,4 +33,4 @@ New business ideas, productivity life hacks, and more
 </script>
 <script src="https://substackapi.com/widget.js" async></script>
 <br>
-<strong>*Your free e-book will be send to you, after you're confirming your subscription</strong>
+<strong>*You will receive the 100+ AI business ideas, after confirming your subscription</strong>
