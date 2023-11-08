@@ -7,7 +7,9 @@
 
 .hero{
     width: 170%;
-    height: 100vh;
+    height: 200vh;
+    min-height: 100vh;
+    max-height: 200vh;
     text-color: white;
     background-image: url(background.png);
     background-size: cover;
