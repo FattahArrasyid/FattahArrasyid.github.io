@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email List Sign-up Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hero">
+        <h1>JOIN MY EMAIL LIST.</h1>
+        <h1>GET ACCESS TO THE MIND OF GREAT PEOPLE. </h1>
+        <br>
+        <br>
+        <p>Enter your <strong>first name</strong> and <strong>email</strong>.
+        <br>
+        <br>
+        <p>I will send you my weekly newsletter every sunday.</p>
+        <br>
+        <p> I will also notify you, whenever i upload a new video.</p>
+        <br>
+        <p>Case study of great people in a written form for you to learn <br> - all in a 5 minute email.</p>
+        <br>
+        <form name="submit-to-google-sheet">
+            <input type="name" name="Name" placeholder="First Name" autofocus="autofocus" required>
+            <input type="email" name="Email" placeholder="Email Address" required>
+            <button type="submit">
+                <img src="sendicon.png" width="30px">
+            </button>
+        </form>
+        <br>
+        <span id="msg">
+        </span>
+    </div>
+
+    <script>
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbw5en9-oXCK41p_xzRb5zBO2SHyKAUvQUo3rwyhSVVavlGBvlqB9Lbv-Nd6ug2rpNn8/exec'
+        const form = document.forms['submit-to-google-sheet']
+        const msg = document.getElementById("msg")
+      
+        form.addEventListener('submit', e => {
+          e.preventDefault()
+          fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+            .then(response => {
+                msg.innerHTML = "Thank You For Subscribing!"
+                setTimeout(function(){
+                    msg.innerHTML = ""
+                },5000)
+                form.reset()
+            })
+            .catch(error => console.error('Error!', error.message))
+        })
+      </script>
+</body>
+</html>
